@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "generatedAt": "1970-01-01T00:00:00.000Z",
+    "repository": "Zenroth",
+    "builtFor": "Base",
+    "network": "base-mainnet",
+    "chainId": 8453,
+    "explorer": "https://basescan.org",
+    "rpcUrl": "https://mainnet.base.org",
+    "readOnly": true
+  },
+  "wallet": {
+    "connected": false,
+    "addresses": []
+  },
+  "chain": {
+    "latestBlock": "0",
+    "timestamp": "0",
+    "gasPriceGwei": "0.000"
+  },
+  "bytecode": []
+}
